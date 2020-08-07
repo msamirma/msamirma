@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>What's up! 👋🏾</h3>
+  <h3>What's up! 👋🏽</h3>
   <p>Welcome to my profile, most of my work is private. But I have some couple of libararies here and will be delighted if you ask me to work on something open soruce</p>
 
 
